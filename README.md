@@ -1,1 +1,1 @@
- **Report:** [Open PDF](docs/project_summary.pdf)
+ **Report:** [Open PDF](project_summary.pdf)
